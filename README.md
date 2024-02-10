@@ -1,2 +1,2 @@
-# Pedestrain_Traffic_Light_Detection
-Pedestrain Traffic Light Detection
+# Pedestrian_Traffic_Light_Detection
+Pedestrian Traffic Light Detection
