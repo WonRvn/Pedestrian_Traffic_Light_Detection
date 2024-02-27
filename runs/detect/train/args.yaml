@@ -2,7 +2,7 @@ task: detect
 mode: train
 model: yolov8n.pt
 data: /content/Pedestrian-Lights-1/data.yaml
-epochs: 50
+epochs: 100
 patience: 50
 batch: 16
 imgsz: 640
